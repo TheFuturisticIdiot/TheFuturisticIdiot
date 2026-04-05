@@ -10,7 +10,9 @@
 
 #### Programming
 [![Primary Languages](https://skillicons.dev/icons?i=py,lua&theme=dark)](https://skillicons.dev)
+
 [![Web Development](https://skillicons.dev/icons?i=js,html,css&theme=dark)](https://skillicons.dev)
+
 [![Web Backend](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skillicons.dev)
 
 #### Game Development
@@ -18,6 +20,7 @@
 
 #### Software
 [![Software](https://skillicons.dev/icons?i=vscode,idea&theme=dark)](https://skillicons.dev)
+
 [![Music Production](https://skillicons.dev/icons?i=ableton&theme=dark)](https://skillicons.dev)
 
 ### Links
